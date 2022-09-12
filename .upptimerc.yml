@@ -9,6 +9,10 @@ sites:
     url: https://factorycraft.cf
   - name: Launcher API
     url: $API
+  - name: Hosting
+    url: $PVE
+  - name: Panel WebHosting
+    url: $CP
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
