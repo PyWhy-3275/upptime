@@ -7,6 +7,8 @@ sites:
     url: https://site.factorycraft.cf
   - name: Factorycraft Forum
     url: https://factorycraft.cf
+  - name: Launcher API
+    url: $API
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
