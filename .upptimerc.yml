@@ -5,8 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Factorycraft Site
     url: https://site.factorycraft.cf
+    
   - name: Factorycraft Forum
     url: https://factorycraft.cf
+    icon: https://factorycraft.cf/favicon.ico
   - name: Launcher API
     url: $API
   - name: Hosting
