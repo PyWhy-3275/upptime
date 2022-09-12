@@ -1,14 +1,12 @@
 # Change these first
 owner: PyWhy-3275 # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: uptime # The name of this repository
 
 sites:
   - name: Factorycraft Site
     url: https://site.factorycraft.cf
   - name: Factorycraft Forum
     url: https://factorycraft.cf
-  - name: Api launcher
-    url: https://api.factorycraft.cf
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
