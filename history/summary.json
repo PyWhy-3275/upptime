@@ -61,19 +61,19 @@
     "url": "ip.kitsu-team.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hard-craft",
-    "status": "down",
-    "uptime": "75.80%",
-    "uptimeDay": "75.80%",
-    "uptimeWeek": "75.80%",
-    "uptimeMonth": "75.80%",
-    "uptimeYear": "75.80%",
-    "time": 324,
-    "timeDay": 324,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "status": "up",
+    "uptime": "61.27%",
+    "uptimeDay": "61.27%",
+    "uptimeWeek": "61.27%",
+    "uptimeMonth": "61.27%",
+    "uptimeYear": "61.27%",
+    "time": 451,
+    "timeDay": 451,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-10-06": 70
+      "2022-10-06": 139
     }
   }
 ]
