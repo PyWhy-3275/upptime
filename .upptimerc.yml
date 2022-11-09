@@ -15,7 +15,7 @@ sites:
   - name: HardCraft
     check: "tcp-ping"
     url: ip.kitsu-team.dev
-    port: 26502
+    port: 26500
   
 status-website:
   theme: dark
